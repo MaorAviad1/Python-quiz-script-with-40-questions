@@ -23,6 +23,5 @@ You must have Python 3.x installed on your system to run this script. You can do
 4. The quiz will begin, and you will be prompted to answer each question by entering the appropriate option (A, B, C, or D). You can enter the options in either uppercase or lowercase letters.
 5. After completing all 40 questions, your final score will be displayed.
 
-## License
 
 
